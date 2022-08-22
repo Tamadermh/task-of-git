@@ -1,0 +1,7 @@
+GitHub.com
+Development of the GitHub.com platform began on October 19, 2007.[10][11][12] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been made available for a few months prior as a beta release.[13] GitHub has an annual keynote called GitHub Universe.[14]
+
+Organizational structure
+GitHub, Inc. was originally a flat organization with no middle managers; in other words, "everyone is a manager" (self-management).[15] Employees could choose to work on projects that interested them (open allocation), but salaries were set by the chief executive.[16][needs update]
+
+In 2014, GitHub, Inc. introduced a layer of middle management amid harassment claims made against senior management. Tom Preston-Werner resigned as CEO amid the scandal.[17]
